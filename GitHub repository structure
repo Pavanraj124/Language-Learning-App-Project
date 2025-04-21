@@ -1,0 +1,29 @@
+language-learning-app/
+│
+├── README.md               # Project overview and documentation
+├── LICENSE                 # MIT License (recommended)
+├── .gitignore              # Files to ignore
+├── frontend/               # Frontend code (React/Vue/Angular)
+│   ├── src/
+│   │   ├── components/     # UI components
+│   │   ├── pages/          # App pages
+│   │   ├── assets/         # Images, styles
+│   │   ├── services/       # API services
+│   │   └── App.js          # Main app component
+│   └── package.json        # Frontend dependencies
+│
+├── backend/                # Backend code (Node.js/Express)
+│   ├── models/             # Database models
+│   ├── routes/             # API routes
+│   ├── controllers/        # Business logic
+│   ├── config/             # Configuration files
+│   └── server.js           # Main server file
+│
+├── database/               # Database scripts and migrations
+│
+├── docs/                   # Documentation
+│   ├── requirements.md     # Project requirements
+│   ├── design.md           # System design
+│   └── report.md           # Final project report
+│
+└── screenshots/            # App screenshots for documentation
